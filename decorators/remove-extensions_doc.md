@@ -328,7 +328,6 @@ components:
 
 Output OpenAPI:
 ```yaml
-```yaml
 openapi: 3.0.0
 info:
   description: "This is a sample server Petstore server.  You can find out more about
