@@ -12,7 +12,7 @@ In the directory where you want to run `redocly` run the following command (you 
 mkdir plugins && git clone -b v1.0.0 https://github.com/CIDgravity/redoc-plugins plugins/cidg-redoc-plugins
 ```
 
-Then create/edit a `plugin/plugin.js` file as follows:
+Then create/edit a `plugins/plugin.js` file as follows:
 ```js
 const RemoveExtensions = require('./cidg-redoc-plugins/decorators/remove-extensions');
 const id = 'plugin';
