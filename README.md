@@ -69,7 +69,7 @@ Regular expressions follow [Javascript Regex convention](https://developer.mozil
 At this point, your file tree shoul look like this:
 - project-directory/
 	- redocly.yaml
-	- plugin/
+	- plugins/
 		- plugin.js
 		- cidg-redoc-plugins
 			- ... content of this repo
