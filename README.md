@@ -87,7 +87,7 @@ redocly bundle with-plugin@latest --output dist/with-plugin.yaml
 
 With the same config as above.
 
-Input OpenAPI:
+Input OpenAPI (`petstore.yaml`):
 ```yaml
 openapi: 3.0.0
 info:
@@ -336,7 +336,7 @@ components:
         name: Pet
 ```
 
-Output OpenAPI:
+Output OpenAPI (`with-plugin.yaml`):
 ```yaml
 openapi: 3.0.0
 info:
