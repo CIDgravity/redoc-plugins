@@ -574,3 +574,7 @@ components:
       xml:
         name: Pet
 ```
+
+## License
+
+This work is licensed under both [Apache v2](./LICENSE-APACHE) & [MIT](./LICENSE-MIT) licenses.
